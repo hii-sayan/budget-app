@@ -32,7 +32,7 @@ const submitHandler = (e) => {
     inputAmountEl.value = '';
 
     // Unfocus (blur) the from inputs
-    inputDescriptionEl.blur();
+    inputDescriptionEl.blur();``
     inputAmountEl.blur();
 
     //add and sub the expenses
